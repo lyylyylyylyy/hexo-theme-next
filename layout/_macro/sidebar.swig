@@ -42,9 +42,11 @@
           <i class="fa fa-arrow-up"></i>
           <span>0%</span>
         </div>
+        
       {%- endif %}
-
-    </div>
+      <a href="https://clustrmaps.com/site/1b75d"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=MSgeNXm-y8DMM6r6hBqJa2IyTlI7gYrIkTQGt57lgv8&cl=ffffff" /></a>
   </aside>
+    </div>
+    
   <div id="sidebar-dimmer"></div>
 {% endmacro %}
